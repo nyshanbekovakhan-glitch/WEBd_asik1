@@ -8,7 +8,7 @@ Part 1 HTML Basics
 Step 0 Create index.html
 
 I created the basic HTML structure using HTML, head, title and body tags.
-![alt text](assets/1.png)
+![alt text](1.png)
 
 Step 1 Structure Text
 
